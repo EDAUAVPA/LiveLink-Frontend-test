@@ -1,0 +1,15 @@
+@media (max-width: 576px) {
+  #origin-search {
+    top: 210px !important;
+    width: 90% !important;
+  }
+
+  #destination-search {
+    top: 270px !important;
+    width: 90% !important;
+  }
+
+  .responsive-block {
+    height: 120px;
+  }
+}

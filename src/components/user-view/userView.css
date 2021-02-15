@@ -1,0 +1,11 @@
+.card-title {
+  font-weight: 800 !important;
+  font-size: 30px !important;
+}
+
+@media (max-width: 576px) {
+  .special {
+    display: flex !important;
+    flex-direction: column-reverse !important;
+  }
+}
